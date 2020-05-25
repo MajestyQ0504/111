@@ -1,0 +1,2 @@
+ANIMAL IMAGE DATA:
+Animal images are obtained from opendata websites for images such as Pixabay and unsplash and Kaggle.
